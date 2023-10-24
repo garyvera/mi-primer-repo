@@ -27,3 +27,8 @@ function makeCapitalized (str)
 {
     return str [0].toUpperCase() + str.slice(1);
 }
+
+function makeCapitalized3 (str)
+{
+    return str [0].toUpperCase() + str.slice(1);
+}
