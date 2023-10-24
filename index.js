@@ -18,3 +18,9 @@ function mul (a,b)
     return a*b;
 }
 
+function raun (a)
+{
+    return Math.round(a)
+}
+
+
